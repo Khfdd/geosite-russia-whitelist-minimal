@@ -1,0 +1,13 @@
+.idea
+.vscode
+
+/domain-list-community
+/domain-list-community.exe
+/fetch_domains
+/fetch_domains.go
+
+# Generated dat file.
+dlc.dat
+
+# Exported plaintext lists.
+/*.txt
