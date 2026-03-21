@@ -4,8 +4,8 @@
 
 ## Download
 
-- **geosite.dat**: [https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal/output/geosite.dat](https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal/output/geosite.dat)
-- **geoip.dat**: [https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal/output/geoip.dat](https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal/output/geoip.dat)
+- **geosite.dat**: [https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal@main/output/geosite.dat](https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal@main/output/geosite.dat)
+- **geoip.dat**: [https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal@main/output/geoip.dat](https://cdn.jsdelivr.net/gh/Khfdd/geosite-russia-whitelist-minimal@main/output/geoip.dat)
 
 ## Категории
 
