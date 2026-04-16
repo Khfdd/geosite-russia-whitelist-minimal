@@ -12,6 +12,6 @@ before=$(du -sh "$TARGET_DIR" | cut -f1)
 after=$(du -sh "$TARGET_DIR" | cut -f1)
 ./domain-list-community
 echo "Before: $before | After: $after"
-mv dlp.dat output/geosite.dat
+mv dlc.dat output/geosite.dat
 git commit -am "geosite update"
 git push
