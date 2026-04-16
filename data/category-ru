@@ -1,0 +1,9 @@
+include:category-ads
+include:microsoft
+include:private
+include:torrent
+include:whitelist
+include:win-spy
+
+# used by sberbank
+servicepipe.ru
