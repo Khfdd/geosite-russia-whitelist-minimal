@@ -9,6 +9,7 @@ before=$(du -sh "$TARGET_DIR" | cut -f1)
 ./fetch_domains https://raw.githubusercontent.com/hydraponique/roscomvpn-geosite/refs/heads/master/data/torrent
 ./fetch_domains https://raw.githubusercontent.com/hydraponique/roscomvpn-geosite/refs/heads/master/data/whitelist
 ./fetch_domains https://raw.githubusercontent.com/hydraponique/roscomvpn-geosite/refs/heads/master/data/win-spy
+./fetch_domains https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/windsurf
 after=$(du -sh "$TARGET_DIR" | cut -f1)
 ./domain-list-community
 echo "Before: $before | After: $after"
