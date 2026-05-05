@@ -1,0 +1,89 @@
+# Russian websites
+ru.com
+ru.net
+
+include:tld-ru
+include:category-betting-ru
+include:category-ecommerce-ru
+include:category-entertainment-ru
+include:category-gov-ru
+include:category-media-ru
+include:category-medicine-ru
+include:category-retail-ru
+include:category-travel-ru
+
+# Russian companies
+include:beget
+include:carrotquest
+include:cdek
+include:comssone
+include:envybox
+include:genotek-ru
+include:gismeteo
+include:group-ib
+include:headhunter
+include:ideco-ru
+include:kaspersky
+include:kontur
+include:mailru-group
+include:mindbox
+include:myoffice-ru
+include:selectel
+include:skyeng
+include:tilda
+include:timeweb
+include:ucoz-ru
+include:whoosh
+include:yandex
+
+# Bank & Finance & Insurance & Securities
+include:category-bank-ru
+## Credit History Bureaus
+credistory.ru
+nbki.ru
+## Currency and stock exchanges
+moex.com   # Moscow Stock Exchange
+spvb.ru    # Saint-Petersburg Stock Exchange
+## Financial marketplace
+banki.ru
+finuslugi.ru
+## Investment
+sistema-capital.com
+## Mir payment system
+mironline.ru
+mirpayonline.ru
+## National Payment Card System
+nspk.ru
+## Tipping service
+netmonet.co
+tips.tips
+
+# Telecom operators
+include:megafon
+include:mts-ru
+include:rostelecom
+include:t2-ru
+beeline.ru
+dom.ru
+
+# Other domains
+apptrackpets.com # Pet GPS tracker service (Yandex Cloud, reg.ru)
+gazfond-pn.ru    # Non-state pension fund GAZFOND pension savings
+litres.ru        # E-book and audiobook service
+meteoinfo.ru     # Hydrometeorological Center of Russia
+ngenix.net       # NGENIX is a Russian provider of acceleration and security services for public web resources
+pochta.ru        # Russian post
+qms.ru           # Russian internet speed testing service
+roistat.com @ads # Russian marketing company
+srv-hub.org      # Website buider
+t1.cloud         # Russian cloud storage provider
+taxsee.com       # Taxi for business (self-employed drivers)
+
+# Other services
+3ebra.net             # Zebra Net Bureau, web development agency
+flomni.com            # Omnichannel communications platform
+flocktory.com @ads    # Marketing personalization platform
+kinescopecdn.net      # Kinescope video hosting CDN
+ognihome.com          # OGNI HOME resident portal
+targetads.io @ads     # Advertising verification platform
+yourgood.app          # CRM for small business
