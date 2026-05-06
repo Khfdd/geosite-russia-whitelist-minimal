@@ -5,6 +5,7 @@ include:whitelist
 full:whitelist.vpnhub.shop
 full:connect.vpnhub.shop
 full:vpnhub.shop
+domain:vhub.pro
 
 # used by sberbank
 domain:servicepipe.ru
