@@ -9,3 +9,6 @@ domain:vhub.pro
 
 # used by sberbank
 domain:servicepipe.ru
+
+# used by timeweb cdn and geofiles updatetes
+domain:cdn.twcstorage.ru
