@@ -1,8 +1,13 @@
-# Russian websites
+include:tld-ru
 ru.com
 ru.net
 
-include:tld-ru
+# - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
+# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+#   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
+# - You can still add `*.ru` domains here if you want
+
+# Subcategories
 include:category-betting-ru
 include:category-ecommerce-ru
 include:category-entertainment-ru
@@ -17,6 +22,7 @@ include:beget
 include:carrotquest
 include:cdek
 include:comssone
+include:drweb
 include:envybox
 include:genotek-ru
 include:gismeteo
@@ -25,9 +31,13 @@ include:headhunter
 include:ideco-ru
 include:kaspersky
 include:kontur
+# Not include:habr #3087
+# Not include:livejournal #3715
 include:mailru-group
 include:mindbox
 include:myoffice-ru
+include:nic-ru
+include:regru
 include:selectel
 include:skyeng
 include:tilda
@@ -65,6 +75,7 @@ include:megafon
 include:mts-ru
 include:rostelecom
 include:t2-ru
+adygtelecom.com    # Adygea Telephone Company, regional operator
 beeline.ru
 dom.ru
 
@@ -77,6 +88,7 @@ kinescopecdn.net   # Kinescope video hosting CDN
 litres.ru          # E-book and audiobook service
 meteoinfo.ru       # Hydrometeorological Center of Russia
 ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
+nplus1.ru          # N+1, popular science magazine
 ognihome.com       # OGNI HOME resident portal
 pochta.ru          # Russian post
 ponyexpress.ru     # Courier delivery service
