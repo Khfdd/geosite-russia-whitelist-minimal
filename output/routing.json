@@ -1,0 +1,31 @@
+{
+    "Name": "VPNHUB",
+    "GlobalProxy": "true",
+    "RemoteDNSType": "DoH",
+    "RemoteDNSDomain": "https://1.1.1.1/dns-query",
+    "RemoteDNSIP": "1.1.1.1",
+    "DomesticDNSType": "DoH",
+    "DomesticDNSDomain": "https://77.88.8.8/dns-query",
+    "DomesticDNSIP": "77.88.8.8",
+    "Geoipurl": "https://connect.vpnhub.shop/geo/geoip.dat",
+    "Geositeurl": "https://connect.vpnhub.shop/geo/geosite.dat",
+    "DnsHosts": {},
+    "DirectSites": [
+        "geosite:category-direct",
+        "geosite:category-ru"
+    ],
+    "DirectIp": [
+        "geoip:private",
+        "geoip:ru"
+    ],
+    "ProxySites": [
+        "geosite:category-proxy"
+    ],
+    "ProxyIp": [],
+    "BlockSites": [
+        "geosite:category-block"
+    ],
+    "BlockIp": [],
+    "DomainStrategy": "IPIfNonMatch",
+    "FakeDNS": "false"
+}
