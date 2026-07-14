@@ -1,7 +1,3 @@
-include:microsoft
-include:private
-include:whitelist
-
 full:whitelist.vpnhub.shop
 full:connect.vpnhub.shop
 full:vpnhub.shop
