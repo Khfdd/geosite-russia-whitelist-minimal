@@ -1,4 +1,6 @@
 include:yandex
+include:vk
+
 include:private
 
 full:whitelist.vpnhub.shop
