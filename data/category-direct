@@ -1,5 +1,6 @@
 include:yandex
 include:vk
+include:t2-ru
 
 include:private
 
@@ -7,6 +8,7 @@ full:whitelist.vpnhub.shop
 full:connect.vpnhub.shop
 full:vpnhub.shop
 domain:vhub.pro
+domain:max.ru
 
 # used by sberbank
 domain:servicepipe.ru
