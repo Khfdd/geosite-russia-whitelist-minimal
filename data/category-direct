@@ -1,14 +1,13 @@
-include:yandex
-include:vk
-include:t2-ru
-
+include:category-whitelist
+include:tbank-ru
+include:category-ru
 include:private
 
+# sub update
 full:whitelist.vpnhub.shop
 full:connect.vpnhub.shop
 full:vpnhub.shop
 domain:vhub.pro
-domain:max.ru
 
 # used by sberbank
 domain:servicepipe.ru
