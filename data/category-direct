@@ -2,5 +2,4 @@ include:category-whitelist
 include:category-ru
 include:private
 include:vpnhub
-
-domain:in-addr.arpa
+include:category-overwrite
